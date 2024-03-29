@@ -25,19 +25,13 @@
 
 
     </div>
-
-    
-
-    
-
-   
-   
   </div>
 </template>
 
 <script>
 
 import axios from 'axios'
+
 
 export default {
   name: 'SignIn',
@@ -67,7 +61,6 @@ export default {
       
 
       }
-
       axios 
           .post('/dj-rest-auth/login/', formData)
           .then(response => {

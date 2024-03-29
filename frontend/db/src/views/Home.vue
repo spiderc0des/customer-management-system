@@ -2,12 +2,12 @@
 
     <div class="home">
     <header>
-        <h1>Customer Relationship Management (CRM) system</h1>
+        <h1>Customer Management System</h1>
     </header>
     <main>
         <section class="intro">
-            <h2>Welcome to Secure CRM</h2>
-            <p>Developed by: Adulrahman Yusuf</p>
+        
+            <p>Developed by: YUSUF ABDULRAHMAN</p>
             <p>Matric No: U20CYS1033</p>
             <p>Course Code: CYB 401</p>
         </section>
