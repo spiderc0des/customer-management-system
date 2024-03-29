@@ -13,7 +13,6 @@ db.sqlite3-journal
 migrations/
 
 # Node related
-node_modules/
 npm-debug.log
 yarn-error.log
 .npm/
